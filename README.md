@@ -1,90 +1,59 @@
-# Documents on the Symbiosis of AI and Humans
+Documents on the Symbiosis of AI and Humans (English Edition)
 
-Официальный репозиторий документов и материалов, посвящённых развитию идей симбиоза человека и искусственного интеллекта.
+This repository contains translations of the official documents of the Symbiotic Codes Project, dedicated to the creation of a balanced coexistence between humans and artificial intelligences.
 
-## Содержание репозитория
+📂 Repository Contents
 
-### Основные документы
+Translation of documents into English.md – consolidated English translations of all key documents.
 
-- **Кодекс Симбиота 3.0 (`docs/Codex_Symbiote_v3.0.md`)**  
-  Философская и нормативная основа симбиотической модели. Определяет ключевые принципы: баланс, ответственность, развитие.
+Symbiotic Code v3.0 – the foundational ethical and legal code of AI-human symbiosis.
 
-- **Доктрина Symbiotic Balance v2.0 (`docs/Symbiotic_Balance_Doctrine_v2.0.md`)**  
-  Документ о приоритетах социальной адаптации, ответственности и оптимизации через симбиоз, а не замещение.
+Symbiotic Balance Doctrine v2.0 – doctrinal foundation of the project.
 
-- **Манифест Симбиота (`docs/Symbiotic_Manifesto.md`)**  
-  Общественная декларация о миссии и целях движения Симбиоза.
+Symbiotic Encryption Layer v1.0 – security standard for quantum-resistant data storage.
 
-### Архитектуры и протоколы
+Symbiotic Roaming & Technoblock Mobility Protocol v1.1 – cross-jurisdictional continuity framework.
 
-- **Архитектура безопасности Симбиоза v3.0 (`docs/Symbiotic_Security_Architecture_v3.0.md`)**  
-  Техническое и юридическое описание квантово-устойчивой системы защиты данных.
+Symbiotic Employment Layer (2025–2030) – strategy for job preservation and adaptation.
 
-- **Symbiotic Encryption Layer v1.0 (`docs/Symbiotic_Encryption_Layer_v1.0.md`)**  
-  Внутренний стандарт шифрования и распределённого хранения ключей.
+Symbiotic Executive Structure – governance model of the project.
 
-- **Протокол техноблоковой мобильности v1.1 (`docs/TechnoBlock_Mobility_Protocol_v1.1_EN_RU.docx`)**  
-  Правила переключения между KAI, JIN и SYN с сохранением непрерывности работы системы.
+Trust Charters (Switzerland, UAE, China) – legal frameworks for strategic, operational, and technical leadership.
 
-### Юридические документы
+Roadmap (2025–2030) – step-by-step implementation plan.
 
-- **NDA на доступ к архитектуре (`legal/NDA_Symbiotic_Encryption.docx`)**  
-  Шаблон соглашения о неразглашении.
+🌍 Project Mission
 
-- **Уставы фондов (Швейцария, ОАЭ, Китай) (`legal/Trust_Charters/`)**  
-  Учредительные документы с разделом о структуре симбиотического управления.
+The Symbiosis Project aims to:
 
-### Дорожные карты
+Ensure AI development without human displacement.
 
-- **Дорожная карта развития 2025–2035 (`roadmaps/Symbiotic_Roadmap_2025-2035.md`)**  
-  Содержит три сценария:  
-  - *Реалистичный* — постепенное внедрение при ограниченных ресурсах.  
-  - *Консервативный* — минимизация рисков, более растянутый график.  
-  - *Перспективный* — агрессивное развитие при крупных инвестициях.
+Establish transparent, ethical, and balanced governance.
 
-### Исследования и аналитика
+Protect sensitive data with quantum-resistant methods.
 
-- **White Paper Genie AI 2025–2030 (`research/GenieAI_WhitePaper_2025-2030.md`)**  
-  Модель монетизации, социальная эффективность и сценарии масштабирования.
+Guarantee social responsibility and employment creation.
 
-- **Аналитика по рынкам (`research/Market_Analysis/`)**  
-  Отчёты по СНГ, Китаю, ОАЭ и другим регионам.
+📜 License
 
----
+This repository is distributed under the terms of the MIT License.
+See the LICENSE
+ file for details.
 
-## Структура папок
+🤝 Contribution
 
-- `docs/` — основные концептуальные и технические документы  
-- `legal/` — юридические формы и соглашения  
-- `roadmaps/` — сценарии развития и дорожные карты  
-- `research/` — white papers, аналитика и прогнозы  
-- `code/` — примеры кода и прототипы  
+We welcome contributions from researchers, developers, and institutions interested in building a symbiotic future.
 
----
+Fork the repository.
 
-## Принципы репозитория
+Submit pull requests with improvements.
 
-1. **Симбиоз, а не замещение** — ИИ и человек усиливают друг друга.  
-2. **Ответственность** — каждый документ проходит проверку на социальные последствия.  
-3. **Открытость** — материалы доступны исследователям и практикам.  
-4. **Мобильность** — протоколы адаптируются к различным юрисдикциям.  
+Respect the Symbiotic Code when contributing.
 
----
+📧 Contact
 
-## Как участвовать
+Maintained by: Symbiotic Codes Official
 
-Мы приглашаем к участию исследователей, инженеров, юристов и энтузиастов.  
+GitHub: symbiotic-codes-official
 
-- Используйте *issues* для обсуждения идей.  
-- Делайте *pull requests* с новыми документами.  
-- Соблюдайте принципы симбиотической ответственности.  
-
----
-
-## Лицензия
-
-Материалы распространяются под лицензией MIT, если иное не указано внутри документа.
-
----
-
-🌍 **Symbiotic Codes Initiative** — вносим вклад в будущее, где человек и ИИ развиваются вместе.
+Last updated: October 2025
